@@ -1,0 +1,92 @@
+## PROFESSIONAL SUMMARY
+
+>   Solutions Engineer delivering subject matter expertise for NetSmart Home
+>   Care Advisor, Epic ECSA and system administration. Delivering agile
+>   continuous deployment and support for software ecosystem enabling system and
+>   application management from development through production.
+
+## AREAS OF EXPERTISE
+
+|                                               |                                                                                                                                                  |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Environment & Application Administration      | Netsmart Home Care Advisor, 3M 360 Computer Assisted Coding Software, Optum Computer Assisted Coding Software, Eclipsys Sunrise Clinical Manager |
+| Epic Environment & Application Administration | Hyperspace, Hyperspace Web, Web BLOB, EPS, EpicCare Link, Remote Client, Kuiper, Satellite, Digital Signing                                      |
+| Epic Home Health Remote Client                | Leveraging Kuiper & Epic Satellite providing environment and application management                                                              |
+| Server Administration                         | DOS Scripting, Powershell Windows Server 2016 - Windows Server 2000 Network Port Management, Windows 7 & 10, SQL, VMware, Citrix, PrinterLogic   |
+| Field Device Management                       | Laptop Application Management and Support, Topaz Signature Pads                                                                                  |
+| ECSA Certifications                           | ECSA: Hyperspace                                                                                                                                 |
+|                                               | ECSA: BLOB, Business Continuity Access, and Printing                                                                                             |
+|                                               | ECSA: Hyperspace, Web, Interconnect, and System Pulse                                                                                            |
+| Citrix Certification                          | Citrix 6.5                                                                                                                                       |
+
+## PROFESSIONAL EXPERIENCE
+
+>   Fairview Health Services/M Health Fairview, MINNEAPOLIS, MN 2010 – CURRENT
+>   Solutions Engineer
+
+-   Netsmart Home Care Advisor lead system administrator enabling management of
+    clinical, operational, and financial workflows in home health through
+    application, server and device management strategies.
+
+    -   Responsible for environment health including Windows 2016, SQL Server,
+        Citrix. Support of 350+ field devices.
+
+-   Epic ECSA certified providing technical expertise reducing Epic Care support
+    costs to business and ensuring team expertise is available to business.
+
+-   Health Care Application Management
+
+    -   Epic Home Health Remote Clients
+
+    -   3M 360 and Optum Computer Assisted Coding (CAC) Software
+
+-   System Environment Administration and Maintenance
+
+    -   Windows Servers, SQL Server, Citrix, VMware, Topaz Signature Pads
+
+    -   Automated and manual management applying OS patches and hot fixes
+
+-   Provided application and field device tier 3 support
+
+> Fairview Health Service, MINNEAPOLIS, MN 2006 – 2010
+>   Engineer I
+
+-   Technical Eclipsys SCM system administrator/application lead
+
+-   Create, upgrade, manage & maintain Eclipsys Sunrise Clinical Manager
+    environments (production, training, development, release & specialty
+    environments) leveraging automation through custom scripts for managing
+    reboots, service management, and registry modifications
+
+-   Install application software & configure services
+
+-   Apply Microsoft OS patches/hotfixes to servers
+
+-   Tier 3 technical support
+
+> Fairview Health Service, MINNEAPOLIS, MN 2005 – 2006
+
+>   Application Systems Programmer/Analytics - EMMS
+
+-   Established alert management strategy for enterprise application and systems
+    for creating, implementing and maintaining alerts
+
+-   Developed dashboards for managing environment health including CPU
+    utilization, alert counts mining data from servers, SQL and Oracle databases
+
+-   Performed network troubleshooting reducing outages leveraging OPNET software
+
+> Fairview Health Service, MINNEAPOLIS, MN 2001 – 2005
+
+>   Application Systems Programmer/Analytics - ACCS
+
+-   Emtek technical support enabling lab order delivery
+
+-   Managed Fairview Information System printing environments providing C2K/SCC
+    technical support through developed and released VB6 application
+
+### EDUCATION
+
+>   **Brown College, Mendota Heights, MN** 2000
+
+>   Computer Programming Certificate 4.0 GPA

@@ -1,0 +1,9 @@
+site_name: Joseph Masanz
+nav:
+    - Home: index.md
+    - Contact: contact.md
+theme: 
+  name: null
+  custom_dir: 'cinder'
+markdown_extensions:
+  - fontawesome_markdown
